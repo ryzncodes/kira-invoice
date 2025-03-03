@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Enterprise-Quality E-Invoicing with Accessible Value</b>
+  <b>Premium Solutions for the Digital Economy</b>
 </p>
 
 ## Overview
@@ -41,11 +41,12 @@ KiraInvoice is a modern, comprehensive e-invoicing solution designed specificall
 
 ## Technology Stack
 
-- **Frontend**: React with Next.js
-- **Backend**: Node.js/Express
+- **Frontend**: React with Next.js 15 (App Router)
+- **Backend**: Node.js/Express with TypeScript
 - **Database**: PostgreSQL for transactional data, MongoDB for document storage
-- **AI/ML**: TensorFlow for document processing
-- **DevOps**: Docker, Kubernetes, AWS infrastructure
+- **AI/ML**: PyTorch/Transformers for document processing and LLM integration
+- **DevOps**: Docker, Kubernetes, AWS/Azure infrastructure
+- **Authentication**: NextAuth.js with JWT and multi-factor authentication
 
 ## Getting Started
 
@@ -99,11 +100,11 @@ Comprehensive documentation is available in the `/docs` directory:
 
 ## Roadmap
 
-- **Q2 2023**: Core e-invoicing functionality with MyInvois integration
-- **Q3 2023**: AI-powered document processing and data extraction
-- **Q4 2023**: Advanced analytics and business intelligence features
-- **Q1 2024**: Expanded integrations with accounting and ERP systems
-- **Q2 2024**: Mobile application for on-the-go invoice management
+- **Q3 2025**: Enhanced AI capabilities with advanced document understanding
+- **Q4 2025**: Cross-border e-invoicing compliance for ASEAN markets
+- **Q1 2026**: Blockchain-based invoice verification and audit trail
+- **Q2 2026**: Predictive analytics for cash flow management
+- **Q3 2026**: Embedded fintech solutions for invoice financing
 
 ## Support
 
@@ -124,6 +125,6 @@ KiraInvoice is licensed under the [MIT License](LICENSE).
 ---
 
 <p align="center">
-  <b>© 2023 Kira Empire Sdn Bhd. All rights reserved.</b><br>
-  <i>Enterprise Quality, Accessible Value</i>
+  <b>© 2025 KIRAKIRA SDN BHD. All rights reserved.</b><br>
+  <i>Elevating Business Through Innovation</i>
 </p> 
